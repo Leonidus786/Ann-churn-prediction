@@ -1,2 +1,2 @@
-# Ann-churn-prediction
-Customer Churn Prediction using Artificial Neural Network and Streamlit
+# customer-churn-intelligence
+End-to-end customer churn prediction using TensorFlow/Keras, Scikit-learn preprocessing, TensorBoard experiment tracking, and Streamlit.
