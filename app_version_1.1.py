@@ -3,7 +3,7 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
-import streamlit as st
+import streamlit as stj
 import tensorflow as tf
 
 
