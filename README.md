@@ -108,4 +108,4 @@ Python · TensorFlow/Keras · Scikit-learn · Pandas · Streamlit · TensorBoard
 
 ## Author
 
-Built as part of a Deep Learning practical (iNeuron Data Science & ML Bootcamp).
+Built as part of a Deep Learning practical.
